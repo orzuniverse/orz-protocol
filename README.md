@@ -1,12 +1,12 @@
-# 🏗 Solana App Scaffold
-Scaffolding for a dapp built on Solana
+# 🏗 Orz Protocol with lending service
+Orz lending dapp built on Solana
 
 # Quickstart
 
 ```bash
-git clone https://github.com/solana-labs/dapp-scaffold.git
+git clone https://github.com/orzuniverse/orz-protocol.git
 
-cd dapp-scaffold
+cd orz-protocol
 ```
 
 ```bash
@@ -38,7 +38,7 @@ $ cargo test-bpf
 
 ## program
 
-Solana program template in Rust
+Solana program Orz protocol in Rust
 
 ### program/src/lib.rs
 * process_instruction function is used to run all calls issued to the smart contract
